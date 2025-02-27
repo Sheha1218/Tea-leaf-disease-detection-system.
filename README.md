@@ -16,3 +16,4 @@ Detects:
 Web-based interface for easy image uploads and real-time predictions
 
 This project highlights the power of AI in agriculture, helping farmers detect diseases early and improve crop health
+![Screenshot 2025-02-27 100428](https://github.com/user-attachments/assets/d6241147-d53b-4664-aa4b-c4748404ed15)
